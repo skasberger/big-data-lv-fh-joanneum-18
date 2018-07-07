@@ -57,8 +57,8 @@ Mittels JavaScript werden gemeinsam die ersten Schritte im Programmieren erlernt
 **Ressourcen**
 
 - [Sublime Text](https://www.sublimetext.com/)
-- [Tutorial: Balkendiagramm](http://offenewahlen.at/tutorials/balkendiagramm/)
-- [Tutorial: Wahl-Karte](http://offenewahlen.at/tutorials/karte/)
+- [Tutorial: Balkendiagramm](http://offenewahlen.at/tutorial/balkendiagramm)
+- [Tutorial: Wahl-Karte](http://offenewahlen.at/tutorial/karte)
 - [Videos von GangMan2006 @ Youtube](https://www.youtube.com/user/GangMan2006)
 - [Nachschlagewerk: developer.mozilla.org](https://developer.mozilla.org)
 - [Fragen stellen: Stackoverflow](https://stackoverflow.com)
